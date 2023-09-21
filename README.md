@@ -1,4 +1,4 @@
-Bu projeyi bir süre sonra yayınlayacağım. Kullanılıyor ancak halen bitmemiş bölümleri var. Authentication/Authorization bölümleri yapım aşamasında halen. 
+Bu topolojideki projeyi bir süre sonra yayınlayacağım. Kullanılıyor ancak halen bitmemiş bölümleri var. Authentication/Authorization bölümleri yapım aşamasında halen. 
 
 ## Amaç
 Proje, genel olarak, ortak bir ortamda birden fazla modül üzerinde kurumsal uygulama geliştiren ekipler için oluşturuldu. 
