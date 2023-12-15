@@ -1,7 +1,7 @@
 Bu projeyi bir süre sonra yayınlayacağım. Kullanılıyor ancak halen bitmemiş bölümleri var. Authentication/Authorization bölümleri yapım aşamasında halen. 
 
 ## Amaç
-ProjeL, genel olarak, ortak bir ortamda birden fazla modül üzerinde kurumsal uygulama geliştiren ekipler için oluşturuldu. 
+Proje, genel olarak, ortak bir ortamda birden fazla modül üzerinde kurumsal uygulama geliştiren ekipler için oluşturuldu. 
 Servis mimarisi altyapısında, ancak arayüzü tek olacak şekilde, ekiplerin birbirinin kodlarına ve çalışmasına doğrudan müdahale edebilmesinin önüne geçilmesi amaçlanmıştır. Yazılım ekibinin .NET ekibi olduğu ve arayüz ekranlarının da yine bu ekip tarafından, angular-react-vue gibi js frameworklerine girmeden, single page olarak çalışabilmesi için Blazor kullanılmıştır.
 
 ![Topoloji](https://raw.githubusercontent.com/caysan/CRazorApp/main/IMG-20230921-WA0000.jpg "Topoloji")
