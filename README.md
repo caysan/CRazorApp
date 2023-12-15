@@ -6,7 +6,7 @@ Servis mimarisi altyapısında, ancak arayüzü tek olacak şekilde, ekiplerin b
 
 ![Topoloji](https://raw.githubusercontent.com/caysan/CRazorApp/main/IMG-20230921-WA0000.jpg "Topoloji")
 
-Proje alt yapısı, aşağıdaki isterleri karşılamak amacıyla oluşturulmuştur.
+Projea alt yapısı, aşağıdaki isterleri karşılamak amacıyla oluşturulmuştur.
 - **Veritabanı tek ve ilişkili olacak**
 	- *Veritabanı projede MsSqlserver olarak tek veritabanı kullanıldı. Log lar için ayrı DB bağlantısı yapılabilmekte.*
 	- *Her modül, ortak veritabanından, kendisinin kullanacağı tabloların modellerini,"Model Wrapper"oluşturarak modüle entegre eder. *
